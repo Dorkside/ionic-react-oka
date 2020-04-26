@@ -1,0 +1,7 @@
+{
+  "name": "ionicOKA",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
